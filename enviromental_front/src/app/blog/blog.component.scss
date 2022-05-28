@@ -1,0 +1,36 @@
+
+.links{
+    background-color: var(--light-bg);
+}
+
+.icons-container .icons i{
+    color: var(--main-color);
+    padding-right: .5rem;
+    transition: .2s linear;
+}
+
+.icons-container .icons i{
+    padding-right: 1rem;
+}
+
+.ic{
+    color: var(--main-color);
+    padding-right: .5rem;
+    transition: .2s linear;
+}
+
+.heading{
+    background-size: cover !important;
+    background-position: center !important;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('../../assets/images/tree.jpg');
+}
+
+.heading h1{
+    color: var(--white);
+    text-shadow: var(--text-shadow);
+}
